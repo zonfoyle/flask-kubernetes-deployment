@@ -154,19 +154,19 @@ flask-kubernetes-deployment/
 
 ### Flask API Running in Kubernetes
 
-screenshots/kubernetes-flask-api-browser.png
+![Flask API Running](screenshots/kubernetes-flask-api-browser.png)
 
 ### Health Endpoint
 
-screenshots/kubernetes-health-endpoint.png
+![Health Endpoint](screenshots/kubernetes-health-endpoint.png)
 
 ### Kubernetes Deployments and Services
 
-screenshots/kubernetes-services-deployments.png
+![Kubernetes Deployments](screenshots/kubernetes-services-deployments.png)
 
 ### Docker Desktop Kubernetes Dashboard
 
-screenshots/docker-desktop-kubernetes.png
+![Docker Desktop Kubernetes](screenshots/docker-desktop-kubernetes.png)
 
 ## Tradeoffs and Lessons Learned
 
